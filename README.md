@@ -1,4 +1,4 @@
-# HereOvO / 黄峰帆
+# HereOvO
 
 <p align="left">
   <a href="https://hereovo.github.io">个人网站</a>
